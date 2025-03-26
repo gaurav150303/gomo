@@ -1,0 +1,23 @@
+*{
+   margin:0%;
+   padding:0%;
+   box_sizing: border-box;
+}
+html,body{
+   height: 100%;
+   width: 100%;
+}
+#one{height: 50px;
+    width: 500px;
+    background-color: aquamarine;
+}
+#two{
+    background-color: rgb(209, 168, 175);
+    height: 200px;
+    width: 250px;
+    text-align: center;
+}
+#three{
+    background-color: yellow;
+    height: 30px;
+}
